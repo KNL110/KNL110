@@ -12,7 +12,7 @@ I love working at the intersection of **software engineering**, **web developmen
 - 💻 **Languages:** Python, C++, Java, JavaScript
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB
 - ⚙️ **Web Development:** Built full-stack **MERN** apps (check my public repos!)
-- 🤖 **Machine Learning
+- 🤖 **Machine Learning**
 - 🧮 **DSA & Problem Solving:** Practicing daily to keep my algorithms sharp
 - 📊 **Statistics:** Strong foundation for Data Science
 - 🧵 **OOP:** Well-versed in object-oriented design
